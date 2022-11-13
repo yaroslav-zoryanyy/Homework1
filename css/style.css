@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: bisque;
+    font-size: 48px;
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+    font-size: 22px;
+    
+    
+}   
+
+.box {
+    align-items: center;
+    display: flex;
+}
+
+.numb {
+   padding: 10px;
+}
+
+.numb__active {
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+
+.picture {
+    margin-left: 250px;
+}
+
+.title2 {
+    color: bisque;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.main__photo {
+    margin-right: 150px;
+}
+
+p {
+    font-weight: 500;
+}
+
+
+.text1 {
+    font-size: 16px;
+    max-width: 280px;
+}
+
+hr {
+    width: 280px;
+    height: 8px;
+    background-color: #040404;
+    margin: 0;
+    margin-top: 35px;
+    
+}
+
+.text2 {
+    max-width: 400px;
+    margin-top: 35px;
+}
